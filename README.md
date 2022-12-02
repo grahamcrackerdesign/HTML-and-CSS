@@ -1,5 +1,4 @@
 # HTML-and-CSS
-My own HTML and CSS
 
 <h2>ProVia Site Theme</h2>
 CSS I've written to make sure elements on the ProVia site adhere to the design system. I can drop in certain Elementor widgets and by applying a class name (e.g. .provia-new-tabs) and minor configurations, the widget will look the same as every other tabs widget across the site. This method to maintain our design systen was used for popups, tabs, images, horizontal scrolling galleries, buttons, carousels, dialog boxes, links and different "likeable" image collectons (images with a heart icon). It's a little messy and disorganized than I'd like, but I'm the only one accessing this. If we planned on scaling the design system in some way for some reason, some cleanup would be necessary. 
