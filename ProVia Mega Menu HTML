@@ -1,0 +1,519 @@
+<nav>
+    <div class="menu-wrapper">
+        <ul class="menu-list">
+            <li class="menu-list-item doors">
+                <span title="Doors" class="mega-menu-label">Doors</span>
+                <div  class="mega-menu">
+                    <div class="mega-menu-container">
+                    <div class="mega-menu-column" style="width:28%">
+                        <div class="column-header">
+                            <p><strong>Be</strong> Inspired</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/doors/gallery/">Door Gallery</a>
+                        </span>
+                        <a class="gallery-image" href="/doors/gallery/"><img src="/wp-content/uploads/2022/07/DSC_1402_no-bugs.jpg" width="300">
+                        <figcaption>View Gallery</figcaption>
+                        </a>
+                        <span class="primary-link">
+                            Doors by Architectural Style
+                        </span>
+                        <ul class="arch-links">
+                            <li class="arch-link">
+                                <a href="/doors/entry-doors/craftsman/">
+                                    <img src="/wp-content/uploads/2022/07/Craftsman_Home_Thumbnail.png">
+                                    <figcaption>Craftsman</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/doors/entry-doors/classic-colonial/">
+                                    <img src="/wp-content/uploads/2022/07/Colonial_ClaySiding_WhiteWindows_BeechEdgeCutStone__CaramelSignetDoor_LodgestoneSlateRoof-LARGE-1.jpg">
+                                    <figcaption>Colonial</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/doors/entry-doors/victorian/">
+                                    <img src="/wp-content/uploads/2022/07/Victorian_NauticaSiding_HibiscusWindows_HibiscusDoor_HarborLimestone_IronstoneSlateRoofing.jpg">
+                                    <figcaption>Victorian</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/doors/entry-doors/modern/">
+                                    <img src="/wp-content/uploads/2022/07/Modern_Menu_Thumbnail.png">
+                                    <figcaption>Modern</figcaption>
+                                </a>
+                            </li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width:29%">
+                        <div class="column-header">
+                            <p><strong>find</strong> your perfect door</p>
+                        </div>
+                        <div class="two-column-div">
+                        <div>
+                        <span class="primary-link">
+                            Door Type</a>
+                        </span>
+                        <ul class="secondary-links-list">
+                            <li><a href="/doors/entry-doors/">Entry Doors</a></li>
+                            <li><a href="/doors/sliding-glass-patio-doors/">Sliding Glass Patio Doors</a></li>
+                            <li><a href="/doors/hinged-patio-doors/">Hinged Patio Doors</a></li>
+                            <li><a href="/doors/french-doors/">French Doors</a></li>
+                            <li><a href="/doors/storm-doors/">Storm Doors</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Door Material</a>
+                        </span>
+                         <ul class="secondary-links-list">
+                            <li><a href="/doors/fiberglass-doors/">Fiberglass Doors</a></li>
+                            <li><a href="/doors/steel-doors/">Steel Doors</a></li>
+                            <li><a href="/doors/vinyl-doors/">Vinyl Doors</a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Door Options</a>
+                        </span>
+                        <ul class="secondary-links-list two">
+                            <li><a href="/doors/paint-options/">Entry Door Paint Options</a></li>
+                            <li><a href="/doors/stain-options/">Entry Door Stain Options</a></li>
+                            <li><a href="/doors/panel-sidelites/">Panel & Lite Styles</a></li>
+                            <li><a href="/doors/clear-glass-grids/">Clear Glass & Grid Options</a></li>
+                            <li><a href="/doors/stained-glass/">Stained Glass</a></li>
+                            <li><a href="/doors/decorative-glass/">Decorative Glass</a></li>
+                            <li><a href="/doors/beveled-glass/">Beveled Glass</a></li>
+                            <li><a href="/doors/privacy-glass/">Privacy Glass</a></li>
+                            <li><a href="/doors/internal-blinds/">Internal Blinds</a></li>
+                            <li><a href="/doors/hardware/">Door Hardware</a></li>
+                            <li><a href="/doors/accessories/">Door Accessories</a></li>
+                            <li><a href="/doors/pet-doors/">Pet Doors</a></li>
+                            <li><a href="/doors/prehung/">What's Included</a></li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                    <div class="mega-menu-column" style="width: 29%">
+                        <div class="column-header">
+                            <p><strong>browse</strong> by brand</p>
+                        </div>
+                        <div class="two-column-div">
+                        <div>
+                        <span class="primary-link">
+                            <a href="/doors/entry-doors/#brands">Entry Door Brands</a>
+                        </span>
+                        <ul class="secondary-links-list">
+                            <li><a href="/doors/entry-doors/embarq/">Embarq</a></li>
+                            <li><a href="/doors/entry-doors/signet/">Signet</a></li>
+                            <li><a href="/doors/entry-doors/legacy/">Legacy</a></li>
+                            <li><a href="/doors/entry-doors/heritage/">Heritage</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/doors/patio-doors/">Patio Door Brands</a>
+                        </span>
+                         <ul class="secondary-links-list">
+                            <li><a href="/doors/patio-doors/aeris/">Aeris</a></li>
+                            <li><a href="/doors/patio-doors/endure/">Endure</a></li>
+                            <li><a href="/doors/patio-doors/aspect/">Aspect</a></li>
+                            <li><a href="/doors/patio-doors/ecolite/">ecoLite</a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/doors/storm-doors/#brands">Storm Door Brands</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/doors/storm-doors/spectrum/">Spectrum</a></li>
+                            <li><a href="/doors/storm-doors/decorator/">Decorator</a></li>
+                            <li><a href="/doors/storm-doors/deluxe/">Deluxe</a></li>
+                            <li><a href="/doors/storm-doors/duraguard/">DuraGuard</a></li>
+                            <li><a href="/doors/storm-doors/superview/">Superview</a></li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                    <div class="mega-menu-column">
+                        <div class="column-header">
+                            <p><strong>learn</strong></p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/doors/technology/">Door Technology</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/doors/technology/entry-door/">Entry Door Technology</a></li>
+                            <li><a href="/doors/technology/patio-door/">Patio Door Technology</a></li>
+                            <li><a href="/doors/technology/storm-door/">Storm Door Technology</a></li>
+                            <li><a href="/doors/technology/energy-efficiency/">Energy Efficiency</a></li>
+                            <li><a href="/doors/technology/cleaning-maintenance/">Cleaning & Maintenance</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <a class="main-link" href="/doors/"> View All Doors</a>
+                </div>
+            </li>
+            <li  class="menu-list-item windows">
+                <span title="Windows"  class="mega-menu-label">WIndows</span>
+                <div  class="mega-menu">
+                    <div class="mega-menu-container">
+                    <div class="mega-menu-column" style="width:28%">
+                        <div class="column-header">
+                            <p><strong>Be</strong> Inspired</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/windows/gallery/">Window Gallery</a>
+                        </span>
+                        <a class="gallery-image" href="/windows/gallery/"><img src="/wp-content/uploads/2022/07/Aeris-Shape-Rustic-Bronze-1.jpg" width="300">
+                        <figcaption>View Gallery</figcaption>
+                        </a>
+                        <span class="primary-link">
+                            WIndows by Architectural Style
+                        </span>
+                        <ul class="arch-links">
+                            <li class="arch-link">
+                                <a href="/windows/craftsman/">
+                                    <img src="/wp-content/uploads/2022/07/Craftsman_Home_Thumbnail.png">
+                                    <figcaption>Craftsman</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/windows/classic-colonial/">
+                                    <img src="/wp-content/uploads/2022/07/Colonial_ClaySiding_WhiteWindows_BeechEdgeCutStone__CaramelSignetDoor_LodgestoneSlateRoof-LARGE-1.jpg">
+                                    <figcaption>Colonial</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/windows/victorian/">
+                                    <img src="/wp-content/uploads/2022/07/Victorian_NauticaSiding_HibiscusWindows_HibiscusDoor_HarborLimestone_IronstoneSlateRoofing.jpg">
+                                    <figcaption>Victorian</figcaption>
+                                </a>
+                            </li>
+                            <li class="arch-link">
+                                <a href="/windows/modern/">
+                                    <img src="/wp-content/uploads/2022/07/Modern_Menu_Thumbnail.png">
+                                    <figcaption>Modern</figcaption>
+                                </a>
+                            </li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width:31%">
+                        <div class="column-header">
+                            <p><strong>find</strong> your perfect window</p>
+                        </div>
+                        <div class="two-column-div">
+                        <div>
+                        <span class="primary-link">
+                            Types
+                        </span>
+                        <ul class="secondary-links-list">
+                            <li><a href="/windows/double-hung/">Double Hung</a></li>
+                            <li><a href="/windows/slider/">Slider</a></li>
+                            <li><a href="/windows/casement-awning/">Casement & Awning</a></li>
+                            <li><a href="/windows/hopper/">Hopper</a></li>
+                            <li><a href="/windows/picture/">Picture</a></li>
+                            <li><a href="/windows/garden/">Garden</a></li>
+                            <li><a href="/windows/bay-bow/">Bay & Bow</a></li>
+                            <li><a href="/windows/shapes/">Architectural Shapes</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                           Window Glass</a>
+                        </span>
+                         <ul class="secondary-links-list">
+                            <li><a href="/windows/clear-glass/">Clear Glass</a></li>
+                            <li><a href="/windows/stained-glass/">Stained Window Glass</a></li>
+                            <li><a href="/windows/decorative-glass/">Decorative Glass</a></li>
+                            <li><a href="/windows/privacy-glass/">Privacy Glass</a></li>
+                            <li><a href="/windows/tinted-glass/">Tinted Glass</a></li>
+                            <li><a href="/windows/grids/">Window Grids Glass</a></li>
+                            <li><a href="/windows/internal-blinds/">Internal Blinds</a></li>
+                            
+                        </ul>
+                        </div>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            WIndow Material</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/windows/vinyl/">Vinyl</a></li>
+                            <li><a href="/windows/wood-vinyl/">Wood & Vinyl</a></li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                    <div class="mega-menu-column" style="width: 24%">
+                        <div class="column-header">
+                            <p><strong>browse</strong> by brand</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/windows/brands">Window Brands</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/windows/brands/aeris/">Aeris</a></li>
+                            <li><a href="/windows/brands/endure/">Endure</a></li>
+                            <li><a href="/windows/brands/aspect/">Aspect</a></li>
+                            <li><a href="/windows/brands/ecolite/">ecoLite</a></li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                    <div class="mega-menu-column" style="width: 19%">
+                        <div class="column-header">
+                            <p><strong>learn</strong></p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Window Technology
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/windows/technology/">Window Technology</a></li>
+                            <li><a href="/windows/technology/cleaning-maintenance-tips/">Cleaning & Maintenance</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <a class="main-link" href="/windows/"> View All Windows</a>
+                </div>
+            </li>
+            <li  class="menu-list-item siding">
+                <span title="Siding"  class="mega-menu-label">Siding</span>
+                <div  class="mega-menu">
+                    <div class="mega-menu-container">
+                    <div class="mega-menu-column" style="width:28%">
+                        <div class="column-header">
+                            <p><strong>Be</strong> Inspired</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/siding/gallery/">Siding Gallery</a>
+                        </span>
+                        <a class="gallery-image" href="/siding/gallery/"><img src="/wp-content/uploads/2022/07/Heart-Tech_Sea-Slate-1.jpg" width="300">
+                        <figcaption>View Gallery</figcaption>
+                        </a>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width:33%">
+                        <div class="column-header">
+                            <p><strong>find</strong> your perfect siding</p>
+                        </div>
+                        <div class="two-column-div">
+                        <div>
+                        <span class="primary-link">
+                            Styles
+                        </span>
+                        <ul class="secondary-links-list">
+                            <li><a href="/siding/colors/">Siding Colors</a></li>
+                            <li><a href="/siding/clapboard-dutch-lap/">Clapboard & Dutch Lap</a></li>
+                            <li><a href="/siding/board-batten/">Board and Batten</a></li>
+                            <li><a href="/siding/timberbay/">Shake Siding</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                           Types and Options
+                        </span>
+                         <ul class="secondary-links-list">
+                            <li><a href="/siding/cedarmax/">Insulated Vinyl</a></li>
+                            <li><a href="/siding/vinyl/">Vinyl</a></li>
+                            <li><a href="/siding/vinyl-soffit/">Vinyl Soffit</a></li>
+                            <li><a href="/siding/accessories/">Accents & Accessories</a></li>
+                            
+                        </ul>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width: 20%">
+                        <div class="column-header">
+                            <p><strong>browse</strong> by brand</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Siding Brands
+                        </span>
+                        <ul class="secondary-links-list two ">
+                            <li><a href="/siding/cedarmax/">CedarMAX</a></li>
+                            <li><a href="/siding/cedar-peaks/">Cedar Peaks</a></li>
+                            <li><a href="/siding/hearttech/">HeartTech</a></li>
+                            <li><a href="/siding/willowbrook/">Willowbrook</a></li>
+                            <li><a href="/siding/ultra/">Ultra</a></li>
+                            <li><a href="/siding/timberbay/">Timberbay</a></li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                    <div class="mega-menu-column" style="width: 19%">
+                        <div class="column-header">
+                            <p><strong>learn</strong></p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Siding Technology
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/siding/technology/">Super Polymer Siding Technology</a></li>
+                            <li><a href="/siding/cleaning-maintenance/">Cleaning & Maintenance</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <a class="main-link" href="/siding/"> View All Siding</a>
+                </div>
+            </li>
+            <li  class="menu-list-item stone">
+                <span title="Stone"  class="mega-menu-label">Stone</span>
+                <div class="mega-menu">
+                    <div class="mega-menu-container">
+                    <div class="mega-menu-column" style="width:30%">
+                        <div class="column-header">
+                            <p><strong>Be</strong> Inspired</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/stone/gallery/">Stone Gallery</a>
+                        </span>
+                        <a class="gallery-image" href="/stone/gallery/"><img src="/wp-content/uploads/2022/07/Limestone-Allegheny-1-300x200.jpg?_t=1662729009" width="300">
+                        <figcaption>View Gallery</figcaption>
+                        </a>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/stone/applications/">Stone by Application</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/stone/home-exterior/">Home Exterior</a></li>
+                            <li><a href="/stone/fireplaces/">Fireplaces</a></li>
+                            <li><a href="/stone/interior-accents/">Interior Accents</a></li>
+                            <li><a href="/stone/firepits-landscaping/">Firepits & Landscaping</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width:45%">
+                        <div class="column-header">
+                            <p><strong>find</strong> your perfect siding</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Stone Profiles
+                        </span>
+                        <ul class="secondary-links-list two">
+                            <li><a href="/stone/limestone/">Limestone</a></li>
+                            <li><a href="/stone/fieldstone/">Fieldstone</a></li>
+                            <li><a href="/stone/ledgestone/">Ledgestone</a></li>
+                            <li><a href="/stone/dry-stack/">Dry Stack</a></li>
+                            <li><a href="/stone/river-rock/">River Rock</a></li>
+                            <li><a href="/stone/ridge-cut/">Ridge Cut</a></li>
+                            <li><a href="/stone/edge-cut/">Edge Cut</a></li>
+                            <li><a href="/stone/chisel-cut/">Chisel Cut</a></li>
+                            <li><a href="/stone/terra-cut/">Terra Cut</a></li>
+                            <li><a href="/stone/natural-cut-stone/">Natural Cut</a></li>
+                            <li><a href="/stone/precision-fit/">PrecisionFit</a></li>
+                        </ul>
+                        </div>
+                        <div class="two-column-div">
+                        <div>
+                        <span class="primary-link">
+                            <a href="/stone/colors/">Color</a>
+                        </span>
+                        <ul class="secondary-links-list">
+                            <li><a href="/stone/grout-visualizer/">Stone Color Palettes</a></li>
+                            <li><a href="/stone/grout-visualizer/">Grout Visualizer</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                           Accents
+                        </span>
+                         <ul class="secondary-links-list">
+                            <li><a href="/stone/accessories/">Trim & Accessories</a></li>
+                            
+                        </ul>
+                        </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mega-menu-column" style="width: 25%">
+                        <div class="column-header">
+                            <p><strong>learn</strong></p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/stone/technology/">Stone Technology</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/stone/technology/#NCMA">NCMA Certification</a></li>
+                            <li><a href="/stone/cleaning-maintenance/">Cleaning & Maintenance</a></li>
+                            <li><a href="/stone/stone-calculator/">Stone Calculator</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <a class="main-link" href="/stone/"> View All Stone</a>
+                </div>
+            </li>
+            <li  class="menu-list-item roofing">
+                <span title="Roofing"  class="mega-menu-label">Roofing</span>
+                <div  class="mega-menu">
+                    <div class="mega-menu-container">
+                    <div class="mega-menu-column" style="width:30%">
+                        <div class="column-header">
+                            <p><strong>Be</strong> Inspired</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/metal-roofing/gallery/">Roofing Gallery</a>
+                        </span>
+                        <a class="gallery-image" href="/metal-roofing/gallery/"><img style="object-position:bottom center;" src="/wp-content/uploads/2022/07/DJI_0488-copy-1-300x225.jpg?_t=1662729936" width="300">
+                        <figcaption>View Gallery</figcaption>
+                        </a>
+                        </div>
+                    </div>
+                    <div class="mega-menu-column" style="width:45%">
+                        <div class="column-header">
+                            <p><strong>find</strong> your perfect Roofing</p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            Roofing Styles
+                        </span>
+                        <ul class="secondary-links-list two">
+                            <li><a href="/metal-roofing/shake/">Shake</a></li>
+                            <li><a href="/metal-roofing/slate/">Slate</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="mega-menu-column" style="width: 25%">
+                        <div class="column-header">
+                            <p><strong>learn</strong></p>
+                        </div>
+                        <div>
+                        <span class="primary-link">
+                            <a href="/metal-roofing/technology/">Roofing Technology</a>
+                        </span>
+                        <ul class="secondary-links-list ">
+                            <li><a href="/metal-roofing/technology/ventilation/">Ventilation</a></li>
+                            <li><a href="/metal-roofing/technology/science/">Science of Metal Roofing</a></li>
+                            <li><a href="/metal-roofing/technology/benefits/">Benefits of Metal Roofing</a></li>
+                        </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <a class="main-link" href="/metal-roofing/"> View All Roofing</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
