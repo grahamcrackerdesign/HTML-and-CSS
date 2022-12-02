@@ -1,0 +1,295 @@
+
+/* mobile menu styles */
+
+/*
+
+ mobile menu styles below are defaults, javascript that hides/shows menu items is located in provia-api.js file, proviaMobileMenu() function
+
+*/
+
+.menu-container
+{
+	position: fixed !important;
+    height: 100vh;
+    width: 300px;
+    top: 35px;
+    z-index: 9999;
+    right: 0;
+    background: white;
+    box-shadow:rgb(0 0 0 / 20%) 0 5px 15px;
+}
+
+.menu-container div#home
+{
+	position: absolute;
+	top:0;
+	z-index: 10;
+	display: block;
+}
+
+.menu-container div.menu-page
+{
+	position: absolute;
+	top:0;
+	z-index: 11;
+	display:none;
+}
+
+div.break
+{
+	display: none;
+}
+
+
+:root {
+    --menu-gap:15px;
+}
+
+.menu-container {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 30px;
+}
+
+.menu-container .break {
+    grid-column: 1/ span 3;
+    width:100%;
+    min-width: 130px;
+    height: 2px;
+    margin: 50px auto;
+    position: relative;
+}
+.menu-container .break::before {
+    content:'';
+    background:var(--e-global-color-accent);
+    width: 10%;
+    min-width:130px;
+    height: 2px;
+    display:block;
+    margin: 0 auto;
+}
+
+
+.menu-page {
+    width: 100%;
+}
+
+
+
+/* navigation bar */
+
+.navigation {
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+}
+
+.navigation .close-menu {
+    flex-direction:row;
+    width: 100%;
+    gap: 5px;
+    align-items: center;
+    justify-content: end;
+    padding: 0 var(--menu-gap);
+    height: 2.4em
+}
+
+.navigation .close-menu::after {
+    content:"\f00d";
+    font-family: 'Font Awesome 5 Free';
+    font-weight:900;
+    color:gray;
+    text-align:center;
+    font-size:1em;
+    line-height: 1em;
+}
+
+.navigation .close-menu.back::after {
+    content:"\f104" ;
+}
+
+.navigation .categories {
+    display:flex;
+    flex-wrap:wrap;
+    padding: 0  ;
+    justify-content: center;
+    width:100%;
+    border-top: 1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+
+    border:none;
+    background:#f5f5f5;
+}
+
+.navigation span {
+    color:gray;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+
+.navigation span.category {
+    color:rgba(0,0,0,0.3);
+    text-align:left;
+    white-space: nowrap;
+    text-transform: capitalize;
+    font-size:1.2em;
+    line-height: 2em;
+    font-weight: bold;
+}
+
+.navigation span.category:not(:first-of-type)::before {
+    content:"\f105";
+    font-family: 'Font Awesome 5 Free';
+    font-weight:900;
+    margin:0 5px;
+}
+
+
+
+
+
+
+
+
+
+/* menu items */
+
+.menu-page a {
+    width: 100%;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    color:black;
+    line-height: 1em;
+    position: relative;
+    padding: var(--menu-gap);
+}
+.menu-page a:hover {
+    color:black;
+}
+.menu-page li:not(.b-level) a {
+    flex-direction:row;
+    border-bottom:1px solid #e3e3e3;
+
+    border:none;
+}
+.menu-page li:not(.b-level) a:focus {
+    background:whitesmoke;
+}
+
+.menu-page ul {
+    list-style-type: none;
+    padding: 0;
+    display:grid;
+    column-gap: var(--menu-gap);
+    grid-template-columns: 1fr 1fr;
+}
+
+.menu-page li {
+    grid-column:span 2;
+    margin-bottom: 0px;
+}
+
+.menu-page li.home {
+    margin: 8px 0;
+}
+.menu-page li.home a {
+    border:none
+}
+.menu-page li.home img {
+    height:30px;
+    width: auto;
+    margin-right:5px;
+}
+
+.menu-page li.b-level {
+    margin-bottom: 0;
+}
+.menu-page li.b-level a {
+    line-height: 2em;
+    align-items:start;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.menu-page li.windows a,
+.menu-page li.stone a {
+    padding-right: 0;
+}
+.menu-page li.siding a,
+.menu-page li.roofing a {
+    padding-left: 0;
+}
+.menu-page li.windows,
+.menu-page li.siding,
+.menu-page li.stone,
+.menu-page li.roofing {
+    grid-column:span 1;
+}
+
+.menu-page img {
+    border-radius: 5px;
+    height: 100px;
+    width: 100%;
+    object-fit:cover;
+    object-position:center top;
+}
+
+.menu-page span {
+    font-weight: bold;
+    display:block;
+}
+
+.menu-page li.design-center,
+.menu-page li.main-link {
+    padding: 0 15px 0px 15px;
+    margin:0 -15px;
+    z-index: 2;
+}
+.menu-page li.design-center {
+    padding-bottom:5px;
+}
+.menu-page li.design-center a,
+.menu-page li.main-link a{
+    background:var(--e-global-color-accent);
+    color:white;
+    border-color:#668d21;
+    padding:12px var(--menu-gap);
+
+    border:none;
+}
+.menu-page li.design-center a:focus,
+.menu-page li.main-link a:focus {
+    background:#333;
+}
+.menu-page li.design-center a::before {
+    content:url(https://www.provia.com/wp-content/uploads/2022/09/design-center-.svg);
+    width: 1em;
+    height: 100%;
+    display:inline-block;
+    margin-right: 10px;
+    font-size:1em;
+    line-height:1em;
+}
+
+.menu-page li.my-portfolio a::before {
+    content:url(https://www.provia.com/wp-content/uploads/2022/09/my-portfolio-.svg);
+}
+
+.menu-page li.has-content span::after {
+    content:'\f105';
+    font-family:'Font Awesome 5 Free';
+    color:var(--e-global-color-accent);
+    position:absolute;
+    right: var(--menu-gap);
+    bottom: ;
+}
+.menu-page li.has-content.design-center span::after {
+    color:white;
+    right:var(--menu-gap);
+}
+.menu-page li.has-content.b-level.windows span::after,
+.menu-page li.has-content.b-level.stone span::after {
+    right: 0px;
+}
